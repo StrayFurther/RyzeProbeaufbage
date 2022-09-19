@@ -12,7 +12,6 @@
 
 <script>
 import RyzeFormular from '../components/RyzeFormular.vue'
-// import config from '../../config/index'
 export default {
   name: 'DetailPage',
   data () {

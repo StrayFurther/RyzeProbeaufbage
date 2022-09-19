@@ -3,7 +3,7 @@
         <form class="form" @submit.prevent>
             <div class="formLine" >
                 <label for="username">
-                    username
+                    Username
                 </label>
                 <input type="text" id="username" name="username" v-model="username">
             </div>
